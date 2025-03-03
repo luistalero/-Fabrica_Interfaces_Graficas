@@ -8,7 +8,7 @@ Este proyecto implementa un sistema de creación de interfaces gráficas con dif
 ## Estructura del Proyecto 🗂️
 
 El proyecto sigue la siguiente estructura de carpetas:
-
+```
 ```bash
 fabrica_interfaces_graficas
 └── src/main/java
