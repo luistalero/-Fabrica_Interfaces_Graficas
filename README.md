@@ -148,11 +148,3 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ¡Gracias por usar este proyecto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme. 😊
 ```
-
----
-
-### Cómo Usar el `README.md`
-
-1. Crea un archivo llamado `README.md` en la raíz de tu proyecto.
-2. Copia y pega el contenido anterior en el archivo.
-3. Personaliza el contenido si es necesario (por ejemplo, agregando tu nombre o detalles adicionales sobre el proyecto).
